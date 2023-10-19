@@ -3,7 +3,7 @@
 ## Overview
 This project is a Data Professional Survey Dashboard created using Power BI. It provides insights and visualizations based on surveys related to the data industry.
 
-##Dashboard
+## Dashboard
 <img src='Images\Dashboard.png'></img>
 
 ## Features
